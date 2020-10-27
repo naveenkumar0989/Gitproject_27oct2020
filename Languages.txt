@@ -2,3 +2,6 @@ There are many different languages in India.
 Hindi
 Telugu
 Tamil
+Kannada
+Marati
+oriya
